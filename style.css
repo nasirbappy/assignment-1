@@ -1,0 +1,147 @@
+.year {
+  color: rgb(216, 137, 111);
+}
+.explore {
+  display: flex;
+}
+#mission-1 {
+  width: 50wv;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.first-heading {
+  margin: auto;
+  padding: 5px;
+  border-left: 3px solid coral;
+}
+.promise {
+  padding: 15px;
+}
+.image-1 {
+  height: 70%;
+
+  width: 50%;
+  padding-top: 0px;
+  margin-top: 0;
+  padding-right: 100px;
+}
+.btn {
+  text-decoration: none;
+  background-color: rgb(32, 39, 19);
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: beige;
+}
+.scrole {
+  padding: 15px;
+}
+.img-mission {
+  height: 40%;
+  width: 40%;
+}
+.heading-2 {
+  padding-left: 500px;
+}
+.outline {
+  display: flex;
+
+  padding-left: 30px;
+}
+.mission {
+  background-color: lightcyan;
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.vission {
+  background-color: rgb(252, 252, 199);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.goals {
+  background-color: rgb(247, 238, 165);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.limitation {
+  display: flex;
+  background-image: url(pictures/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 14%;
+  padding-top: 50px;
+  padding-left: 20px;
+  background-position: left;
+}
+.alimit {
+  padding-left: 100px;
+}
+.image-1 {
+  width: 50%;
+  padding-left: 100px;
+}
+.comunity {
+  display: flex;
+  padding-top: 50px;
+  padding-left: 20px;
+  background-position: left;
+}
+.image-2 {
+  width: 50%;
+  padding-right: 100px;
+  padding-bottom: 20px;
+}
+.acomunity {
+  width: 50wv;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.footer {
+  background-color: black;
+  color: white;
+  padding-left: 500px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.education {
+  display: flex;
+
+  padding-left: 30px;
+  padding-bottom: 15px;
+}
+.img-edu {
+  height: 40%;
+  width: 40%;
+}
+.academic {
+  background-color: rgb(214, 214, 3);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.skills {
+  background-color: rgb(177, 177, 6);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.expe {
+  background-color: rgb(175, 175, 34);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
